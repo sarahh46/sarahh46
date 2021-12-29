@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahh46
 - 👀 I’m interested in learning as much as I can about the cybsersecurity world.
-- 🌱 I’m currently learning CS0: Introduction to Computer Science through Harvard University online.
+- 🌱 I’m currently learning CS50: Introduction to Computer Science through Harvard University online.
 - 💞️ I’m looking to collaborate on anything that is relevant and interesting!
 - 📫 You can just direct message me to reach me.
